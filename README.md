@@ -18,3 +18,10 @@
 | DualPath | 联合北大、清华推出的新推理框架，通过双路径读取机制解决AI智能体的I/O瓶颈，显著提升推理吞吐量。 | arXiv | 2026年2月 | [2602.21548](https://arxiv.org/abs/2602.21548) |
 | Conditional Memory | 联合北大提出“条件记忆”（Engram架构），将记忆与计算分离，解决Transformer模型在知识检索上的低效问题。 | arXiv | 2026年1月 | [2601.07372](https://arxiv.org/abs/2601.07372) |
 | mHC | 提出流形约束超连接（Manifold-Constrained Hyper-Connections），为深层网络的信息流动提供稳定高效的连接方式。 | arXiv | 2025年12月 | [2512.24880](https://arxiv.org/abs/2512.24880) |
+
+## Tools
+
+### MinerU  
+
+[GitHub](https://github.com/opendatalab/MinerU)  
+[MinerU](https://mineru.net/OpenSourceTools/Extractor)  
